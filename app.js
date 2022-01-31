@@ -1,6 +1,5 @@
 let userScore=0;
 let compScore=0;
-//this is test
 const userScore_span=document.getElementById("user-score");
 const compScore_span=document.getElementById("comp-score");
 const scoreBoard_div=document.querySelector(".score-board");
